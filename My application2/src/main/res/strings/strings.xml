@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string-array name="Countries">
+        <item>India</item>
+        <item>New Zealand</item>
+        <item>West Indies</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>South Africa</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Sri Lanka</item>
+        <item>Afghanistan</item>
+        <item>Netherland</item>
+        <item>Zimbabwe</item>
+        <item>Ireland</item>
+        <item>Maldavies</item>
+        <item>USA</item>
+        <item>Nepal</item>
+    </string-array>
+
+</resources>
